@@ -1,6 +1,4 @@
-## [See it live](https://vitorapolonio.github.io/homepage-cs50/)
-___
-# Homepage
+# Homepage ([See it live](https://vitorapolonio.github.io/homepage-cs50/))
 This is my solution to the CS50 homepage exercise. It's nothing too fancy, but I'm happy with how it came out so I'm uploading it here.
 ![image](https://github.com/user-attachments/assets/26aec0e1-7681-4d15-b706-bbc93217fca2)
 ## On mobile
